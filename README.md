@@ -1,7 +1,6 @@
 ## Hello! I am Andrey
 
-[Portfolio](https://dddoog9.github.io/my-portfolio)
----
+- [Portfolio](https://dddoog9.github.io/my-portfolio)
 
 ### Languages and more
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
